@@ -1,0 +1,16 @@
+
+titulos {
+    font-size: 36px;
+    background-color: aqua;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.uno {
+    @extend titulos;
+}
+
+.extends {
+    @extend titulos;
+    font-style: italic;
+}

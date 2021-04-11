@@ -1,0 +1,7 @@
+
+@import "titulo";
+
+.dos {
+    @extend titulos;
+    background-color: $color;
+}

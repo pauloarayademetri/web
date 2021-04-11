@@ -1,24 +1,24 @@
-body{
-    background-color: rgb(110, 185, 250);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 16px;
-}
-h1 {
-    text-align: center;
-    font-size: 36px;
-    font-style: italic;/* cursiva */
-    background-color: aqua;
-    padding: 15px;
-    padding-bottom: 15px;
-    margin-top: 80px;
-}
+titulos, .uno, .extends, .dos {
+  font-size: 36px;
+  background-color: aqua;
+  padding-top: 20px;
+  text-align: center; }
 
-.titulo{
-    color: brown;
-}/* usar "." para class="" */
+.extends {
+  font-style: italic; }
 
-#tabla{
-    border: 2px solid black;
-}/* usar "#" para Id="" */
+titulos, .uno, .extends, .dos {
+  font-size: 36px;
+  background-color: aqua;
+  padding-top: 20px;
+  text-align: center; }
 
-tr{
-    border: 5px solid black;
-}
+.extends {
+  font-style: italic; }
+
+.dos {
+  background-color: #63b17d; }
+
+body {
+  background-color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
